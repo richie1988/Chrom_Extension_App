@@ -1,5 +1,4 @@
-
-
+// This is the follow up code taught by the per herald from scrimba trying to imptome my javascrip coding skills
 let myLeads = [];
 const inputEl = document.getElementById('input-el')
 const inputBtn = document.getElementById('input-btn')
